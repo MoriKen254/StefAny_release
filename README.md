@@ -7,7 +7,7 @@ Click the figure below for demo video.
 
 # Restriction
 This program can be used only for Research and Education.
-Please contact me if you need commercital use.
+Please contact me if you need commercial use.
 
 Mail: p595201m@mail.kyutech.jp
 
