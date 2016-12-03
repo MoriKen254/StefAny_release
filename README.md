@@ -1,5 +1,6 @@
 # StefAny_release
 This application makes it easy to understand and compare behaviors of filters such as Kalman filter and particle filter.
+
 ![スクリーンショット 2016-12-03 15.44.28.png](https://qiita-image-store.s3.amazonaws.com/0/110138/fae66f3b-e915-90de-201e-19a032c2f3bf.png)
 
 # Restriction
@@ -9,4 +10,11 @@ Please contact me if you need commercital use.
 Mail: p595201m@mail.kyutech.jp
 
 # Usage
-Please see [Qiita Page]().
+Execute `StefAny.exe`.
+
+Please see [Qiita Page]() for more details.
+
+# LICENSE
+Some OpenCV 2.4.9 methods are used for Matrices computation.
+
+Thus we put LISCENSE file of OpenCV 2.4.9 accordingt to its BSD License although we only distribute binary form. 
