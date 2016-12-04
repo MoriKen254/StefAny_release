@@ -14,7 +14,7 @@ Mail: p595201m@mail.kyutech.jp
 # Usage
 Execute `StefAny.exe`.
 
-Please see [Qiita Page]() for more details.
+Please see [Qiita Page](http://qiita.com/MoriKen/items/86901c661e05be6f33d0) for more details.
 
 # LICENSE
 Some OpenCV 2.4.9 methods are used for Matrices computation.
